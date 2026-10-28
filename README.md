@@ -33,7 +33,6 @@
 |---|---|---|
 | [ai-finance-portfolio](https://github.com/kaihu8766-netizen/ai-finance-portfolio) | 能力作品集：AI 司库还本付息排程系统 + LPR 走势预测与压力测试（含数据与局限说明） | [在线访问](https://kaihu8766-netizen.github.io/ai-finance-portfolio/) |
 | [busi4543-tsla-team](https://github.com/kaihu8766-netizen/busi4543-tsla-team) | 公司金融课程项目：上市公司财务战略 / 资本结构与估值（5 人团队组长） | [在线访问](https://kaihu8766-netizen.github.io/busi4543-tsla-team/) |
-| [ai-skills](https://github.com/kaihu8766-netizen/ai-skills) | 把复核流程脚本化的技能集（Python）：减少重复核对、固化检查项 | — |
 
 ---
 
