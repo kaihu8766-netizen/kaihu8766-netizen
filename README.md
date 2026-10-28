@@ -9,7 +9,7 @@
 ## 关于我
 
 - **宁波诺丁汉大学** 金融与投资学（专业会计）硕士 · 2025.09 – 2027.07
-- **惠灵顿维多利亚大学** 精算学（辅修金融）本科 · GPA 专业前 10% · 澳新精算师协会认证专业
+- **惠灵顿维多利亚大学** 精算学（辅修金融）本科 · 2021.02 – 2025.02
 - **实习**：
   1. **整车制造集团（smart，奔驰 × 吉利）· 资金部**（2026.05 – 2026.10）—— 流贷授信、账户与头寸管理、跨境付汇
   2. **会计师事务所（Mazars）· 审计**（2025.12 – 2026.03）—— 核心科目底稿、收入截止测试、数据分析
@@ -32,7 +32,6 @@
 | 项目 | 内容 | 在线 |
 |---|---|---|
 | [ai-finance-portfolio](https://github.com/kaihu8766-netizen/ai-finance-portfolio) | 能力作品集：AI 司库还本付息排程系统 + LPR 走势预测与压力测试（含数据与局限说明） | [在线访问](https://kaihu8766-netizen.github.io/ai-finance-portfolio/) |
-| [invoice-precheck](https://github.com/kaihu8766-netizen/invoice-precheck) | 发票合规预审 Web MVP：上传 → 解析 → 规则引擎 → 风险报告（Python） | 可运行 MVP（演示数据） |
 | [busi4543-tsla-team](https://github.com/kaihu8766-netizen/busi4543-tsla-team) | 公司金融课程项目：上市公司财务战略 / 资本结构与估值（5 人团队组长） | [在线访问](https://kaihu8766-netizen.github.io/busi4543-tsla-team/) |
 | [ai-skills](https://github.com/kaihu8766-netizen/ai-skills) | 把复核流程脚本化的技能集（Python）：减少重复核对、固化检查项 | — |
 
@@ -48,6 +47,5 @@
 
 - 邮箱：bixkh3@nottingham.edu.cn
 - 作品集：https://kaihu8766-netizen.github.io/ai-finance-portfolio/
-- 手机：18414048766
 
 <sub>作品集中的作品均来自实习中的观察与个人尝试，未在公司业务中投入使用。</sub>
